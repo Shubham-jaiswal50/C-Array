@@ -19,7 +19,7 @@ int main() {
                 // Swap if the current element is greater than the next
                 temp = arr[j];  //temp=8
                 arr[j] = arr[j + 1];// 8=4
-                arr[j + 1] = temp;  //4=8
+                arr[j + 1] = temp;  //4=8 value swap
             }
         }
     }
